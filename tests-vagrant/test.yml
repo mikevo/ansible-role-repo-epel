@@ -1,0 +1,5 @@
+---
+- hosts: ansible-repo-epel
+
+  roles:
+    - repo-epel
